@@ -6,3 +6,5 @@
 ## презентация
 можете просмотреть выжимку по заданию и архитектуре [здесь](https://github.com/status3000/sputnik_hack/blob/main/%D0%9C%D0%A4%D0%A2%D0%98_%D1%85%D0%B0%D0%BA%D0%BA%D0%B0%D1%82%D0%BE%D0%BD.pptx)
 
+## решение
+ноутбук с решением - [sputnik_final_version.ipynb](https://github.com/status3000/sputnik_hack/blob/main/sputnik_final_version.ipynb)
